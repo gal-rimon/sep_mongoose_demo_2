@@ -1,0 +1,18 @@
+{
+    "categories": [
+        "fruits",
+        "vegetables",
+        "dairy",
+        "meat"
+    ],
+    "products": [
+        { "name": "apple", "category": 0, "price": 10 },
+        { "name": "banana", "category": 0, "price": 20 },
+        { "name": "tomato", "category": 1, "price": 15 },
+        { "name": "cucamber", "category": 1, "price": 30 },
+        { "name": "milk", "category": 2, "price": 20 },
+        { "name": "yogurt", "category": 2, "price": 15 },
+        { "name": "chicken", "category": 3, "price": 50 },
+        { "name": "steak", "category": 3, "price": 20 }
+    ]
+}
